@@ -1,21 +1,8 @@
-gdhfhfh 
-fgh 
-fgh
-fg
-h f
-gh fgh fghfgh fg h
-fg
-h f
-gh 
-fggh
- fg
-h 
-fg
-h thhtyjt
+alunos:		Matriculas:
 
-
-rdthdr
-
-rthrty
-
-asdas
+Gustavo 	999999999
+Davi		999999999	
+Gabigol		999999999
+André		999999999
+Arthur		999999999
+João		999999999
