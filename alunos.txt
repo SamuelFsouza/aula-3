@@ -1,0 +1,8 @@
+alunos:
+
+Gustavo
+Davi
+Gabigol
+André
+Arthur
+João
